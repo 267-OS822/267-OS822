@@ -1,4 +1,4 @@
-# A-New-Storage-Less-Hardware-Compression-Technique-for-FPGA-based-CNNs-Using-Constant-Multiplication
+# A New Storage-Less Hardware Compression Technique forCNNs Using Constant Multiplication
 [This is a minimal copy of the project, we made public for reviewer's answers. The main project contains the full structure.]
 
 This project exploits constant multiplication in Convolutional Neural Networks.
